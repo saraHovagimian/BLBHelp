@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Configurador transferencia electronica F 2122"]],"2":[[" ","Configurador transferencia electrónica F 2122"]],"3":[[" ","Incluye el formato para la emisión del formulario 1357."]],"id":"1"})
